@@ -13,13 +13,16 @@ function toer() {
     document.getElementById("real").innerHTML = "My Name Is Shafiqul Islam Sagor";
 } 
 function house() {
-    document.getElementById("bari").innerHTML = "My Home Distric Sherpur"
+    document.getElementById("bari").innerHTML = "My Home Distric Sherpur";
 }
 function onbutton() {
-    document.getElementById("img-light").src='./images/ONbulb.png'
+    document.getElementById("img-light").src='./images/ONbulb.png';
 }
 function offbutton() {
-    document.getElementById("img-light").src='./images/OFFbulb.png'
+    document.getElementById("img-light").src='./images/OFFbulb.png';
+}
+function high() {
+    document.getElementById("big").style.fontSize = "40px"
 }
 // alart-box
 let x = 5;
