@@ -15,3 +15,14 @@ function toer() {
 function house() {
     document.getElementById("bari").innerHTML = "My Home Distric Sherpur"
 }
+function onbutton() {
+    document.getElementById("img-light").src='./images/ONbulb.png'
+}
+function offbutton() {
+    document.getElementById("img-light").src='./images/OFFbulb.png'
+}
+// alart-box
+let x = 5;
+let y = 10;
+let z = x + y;
+    alert(z);
