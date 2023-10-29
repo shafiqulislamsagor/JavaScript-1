@@ -1,2 +1,5 @@
 console.log("Hlw")
-document.write("This is JavaScript text")
+console.log ("this is my learning parts javascript")
+alert("this high risk but this jocks ")
+document.write("This is JavaScript text </br>")
+document.write("this my home practic parts JavaScript")
