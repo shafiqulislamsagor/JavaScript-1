@@ -34,3 +34,7 @@ let x = 5;
 let y = 10;
 let z = x + y;
     alert(z);
+const num = 20 ;
+let person = "Your Name ?";
+var answer = "My Name Is Shafiqul Islam Sagor";
+document.getElementById("let").innerHTML = num + "<br>" + person + "<br>" + answer ; 
