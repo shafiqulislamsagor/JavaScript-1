@@ -1,7 +1,7 @@
 console.log("Hlw")
 console.log ("this is my learning parts javascript")
 alert("this high risk but this jocks ")
-document.write("This is JavaScript text </br>")
+document.write("</br> This is JavaScript text </br>")
 document.write("this my home practic parts JavaScript")
 function upDate() {
     document.getElementById("demo").innerHTML = "Click JavaScript code ?";
@@ -25,6 +25,10 @@ function high() {
     document.getElementById("big").style.fontSize = "40px"
 }
 document.getElementById("inner").innerHTML = "Shafiqul Islam Sagor"
+function Delete(){
+    document.write("onclick use kore document.write() lekhai html ar sod code chole gese!!")
+}
+window.alert("Alert and windows.alert amar mone hoi same//")
 // alart-box
 let x = 5;
 let y = 10;
