@@ -24,6 +24,7 @@ function offbutton() {
 function high() {
     document.getElementById("big").style.fontSize = "40px"
 }
+document.getElementById("inner").innerHTML = "Shafiqul Islam Sagor"
 // alart-box
 let x = 5;
 let y = 10;
